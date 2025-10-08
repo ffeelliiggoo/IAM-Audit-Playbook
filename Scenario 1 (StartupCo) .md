@@ -94,3 +94,5 @@ This helps establish reproducibility, reduce technical debt, and improve strateg
 
 ## Key Note
 This is a **pilot/POC exercise**. Actual AWS resources are not being provisioned; the goal is to **design and document** a secure IAM setup to replace poor practices and lay a foundation for future governance.
+
+In the real world more often you encounter this situations as companies need to transition from quick and dirty solutions to proper security practices. 
